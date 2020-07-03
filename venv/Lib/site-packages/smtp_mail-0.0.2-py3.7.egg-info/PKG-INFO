@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: smtp-mail
+Version: 0.0.2
+Summary: html
+Home-page: https://github.com/wangxiao1427/smtp-mail
+Author: shawn_wg
+Author-email: wang.xiao@intellif.com
+License: MIT Licence
+Description: smtp协议的邮件发送，支持html格式，可以设置邮件模板
+Keywords: smtp,mail,html
+Platform: any
